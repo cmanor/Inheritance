@@ -1,0 +1,7 @@
+package org.example;
+
+public class A {
+    public void a(){
+        System.out.println("A");
+    }
+}
